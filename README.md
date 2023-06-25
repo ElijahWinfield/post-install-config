@@ -106,9 +106,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 6:
   *Configure Users (customers)*
-  1. Agent Panel -> Users -> Add New
-2. Karen
-3. Ken
+  1. Agent Panel -> Users -> + Add User (User Directory)
+2. Email Address:Karen@osticket.com > Full Name: Karen Karen
+3. Email Address:Ken@osticket.com > Full Name: Ken Ken
 
 <p>
 <img src="https://i.imgur.com/Dj3XUL3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -117,7 +117,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 7:
   *Configure SLA*
-  1. Admin Panel -> Manage -> SLA
+  1. Admin Panel -> Manage -> + SLA
 2. Sev-A (1 hour, 24/7)
 3. Sev-B (4 hours, 24/7)
 4. Sev-C (8 hours, business hours)
