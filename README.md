@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     *GENERAL OVERVIEW*
 
 <p>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7K4yFoC.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -55,7 +55,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/BrtNEee.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zjk62dw.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -68,7 +68,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/qMhdki5.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mpQi1uF.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -79,7 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. Name: Level II Support > Members > Add any agent
 
 <p>
-<img src="https://i.imgur.com/ajD2CN8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xbk86sv.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -89,7 +89,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 2. Registration Required: Require registration and login to create tickets (can or uncheck the box)
 
 <p>
-<img src="https://i.imgur.com/QgcvwRP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TSR6JwQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -100,7 +100,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. Name: John Doe > Email Address: John.Doe@osticket.com > Username: John.Doe > Password: Password1 > Set
 
 <p>
-<img src="https://i.imgur.com/90r8plc.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yiL4ZeG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -111,7 +111,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. Email Address:Ken@osticket.com > Full Name: Ken Ken
 
 <p>
-<img src="https://i.imgur.com/Dj3XUL3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6iyQpSy.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/BCmI3YM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -123,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 4. Sev-C (8 hours, business hours)
 
 <p>
-<img src="https://i.imgur.com/cxCsO9V.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PjsXn0e.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
