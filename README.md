@@ -48,8 +48,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 1:
   *Configuring roles*
-1. Admin Panel -> Agents -> Roles
-2. Supreme Admin
+1. Admin Panel -> Agents -> + Roles
+2. Definition: Supreme Admin > Permissions: Check off all the boxes
 
 </p>
 <br />
@@ -61,8 +61,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 2:
   *Configure Departments*
-1. Admin Panel -> Agents -> Departments
-2. System Administrators
+1. Admin Panel -> Agents ->  + Departments
+2. Name: System Administrators > + Create Department
 
 </p>
 <br />
@@ -74,9 +74,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 3:
   *Configure Teams*
- 1. Admin Panel -> Agents -> Teams
-2.  Level I Support
-3. Level II Support
+ 1. Admin Panel -> Agents ->  + Teams
+2.  Name: Level I Support > Members > Add any agent
+3. Name: Level II Support > Members > Add any agent
 
 <p>
 <img src="https://i.imgur.com/ajD2CN8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -86,7 +86,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   STEP 4:
   *Allow anyone to create tickets*
   1. Admin Panel -> Settings -> User Settings
-2. Registration Required: Require registration and login to create tickets
+2. Registration Required: Require registration and login to create tickets (can or uncheck the box)
 
 <p>
 <img src="https://i.imgur.com/QgcvwRP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
