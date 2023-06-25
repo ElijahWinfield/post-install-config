@@ -96,8 +96,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   STEP 5:
 *Configure Agents (workers)*
 1. admin Panel -> Agents -> + Add New
-2. Name: Jane Doe > Email Address: Jane.Doe@osticket.com > Username: Jane.Doe > Password: Password 1
-3. Name: Jane Doe > Email Address: Jane.Doe@osticket.com > Username: Jane.Doe > Password: Password 1
+2. Name: Jane Doe > Email Address: Jane.Doe@osticket.com > Username: Jane.Doe > Password: Password1 > Set
+3. Name: John Doe > Email Address: John.Doe@osticket.com > Username: John.Doe > Password: Password1 > Set
 
 <p>
 <img src="https://i.imgur.com/90r8plc.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
