@@ -129,9 +129,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 8:
   *Configure Help Topics*
-1. Admin Panel -> Manage -> Help Topics
-2. Business Critical Outage
-3. Personal Computer Issues
-4. Equipment Request
-5. Password Reset
+1. Admin Panel -> Manage -> + Help Topics
+2. + Business Critical Outage
+3. + Personal Computer Issues
+4. + Equipment Request
+5. + Password Reset
  
