@@ -48,8 +48,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   STEP 1:
   *Configuring roles*
-  Admin Panel -> Agents -> Roles
-Supreme Admin
+1. Admin Panel -> Agents -> Roles
+2. Supreme Admin
 
 </p>
 <br />
@@ -61,8 +61,8 @@ Supreme Admin
 
   STEP 2:
   *Configure Departments*
- Admin Panel -> Agents -> Departments
-System Administrators
+1. Admin Panel -> Agents -> Departments
+2. System Administrators
 
 </p>
 <br />
@@ -74,9 +74,9 @@ System Administrators
 
   STEP 3:
   *Configure Teams*
- Admin Panel -> Agents -> Teams
-Level I Support
-Level II Support
+ 1. Admin Panel -> Agents -> Teams
+2.  Level I Support
+3. Level II Support
 
 <p>
 <img src="https://i.imgur.com/ajD2CN8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -85,8 +85,8 @@ Level II Support
 
   STEP 4:
   *Allow anyone to create tickets*
-  Admin Panel -> Settings -> User Settings
-Registration Required: Require registration and login to create tickets
+  1. Admin Panel -> Settings -> User Settings
+2. Registration Required: Require registration and login to create tickets
 
 <p>
 <img src="https://i.imgur.com/QgcvwRP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -95,9 +95,9 @@ Registration Required: Require registration and login to create tickets
 
   STEP 5:
 *Configure Agents (workers)*
-dmin Panel -> Agents -> Add New
-Jane
-John
+1. admin Panel -> Agents -> Add New
+2. Jane
+3. John
 
 <p>
 <img src="https://i.imgur.com/90r8plc.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -106,9 +106,9 @@ John
 
   STEP 6:
   *Configure Users (customers)*
-  Agent Panel -> Users -> Add New
-Karen
-Ken
+  1. Agent Panel -> Users -> Add New
+2. Karen
+3. Ken
 
 <p>
 <img src="https://i.imgur.com/Dj3XUL3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -117,10 +117,10 @@ Ken
 
   STEP 7:
   *Configure SLA*
-  Admin Panel -> Manage -> SLA
-Sev-A (1 hour, 24/7)
-Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
+  1. Admin Panel -> Manage -> SLA
+2. Sev-A (1 hour, 24/7)
+3. Sev-B (4 hours, 24/7)
+4. Sev-C (8 hours, business hours)
 
 <p>
 <img src="https://i.imgur.com/cxCsO9V.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -129,9 +129,9 @@ Sev-C (8 hours, business hours)
 
   STEP 8:
   *Configure Help Topics*
-  Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
+1. Admin Panel -> Manage -> Help Topics
+2. Business Critical Outage
+3. Personal Computer Issues
+4. Equipment Request
+5. Password Reset
  
