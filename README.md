@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How to setup and configure osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,13 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- PHP Manager for Internet Imformation Services (IIS) - (External Download) - https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link
-- Rewrite Module - (External Download) - https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link
-- VC_redist.x86.exe - (External Download) https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link
-- PHP 7.3.8.ZIP - (External Download) https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link
-- MySQL 5.5.62 - (External Download) https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link
-- osTicket v1.15.8 - (External Download) https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link
-- HeidiSQL - (External Download) https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit
+- osTicket installed and ready to go
+- Admin login credentials
 
 
 <h2>Login URL Links</h2>
