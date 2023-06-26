@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and post-installation of the open-sourc
 
 - End Users osTicket URL: http://localhost/osTicket/
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/NZjRE0p.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
